@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "mods": [
+    {
+      "file": "test-mod.jar",
+      "version": "1.0"
+    },
+    {
+      "file": "another-mod.jar",
+      "version": "2.0"
+    }
+  ]
+}
