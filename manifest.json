@@ -3,11 +3,13 @@
   "mods": [
     {
       "file": "test-mod.jar",
-      "version": "1.0"
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/ShironTm/Core/main/test-mod.jar"
     },
     {
       "file": "another-mod.jar",
-      "version": "2.0"
+      "version": "2.0",
+      "url": "https://raw.githubusercontent.com/ShironTm/Core/main/another-mod.jar"
     }
   ]
 }
